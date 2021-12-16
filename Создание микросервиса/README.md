@@ -17,15 +17,32 @@
 1.
 Для тестирования используем модуль requests, который, собственно, и позволяет производить запросы.
 При хэшировании в поле ввода password добавляется соль(модификатор входа хэш-функции) для более удобного получения её в будущем. Также благодаря ней сервис позволяет создавать пользователей с одинаковыми паролями и разными именами. При попытке создать пользователя с уже существующем именем сервер выдает сообщение об ошибке, также это происходит и при попытке получить данные по несущетвующему пользователю.
+![image](https://user-images.githubusercontent.com/80482468/146441172-a714d202-a240-4547-b2b2-d167fc46f105.png)
+
+![image](https://user-images.githubusercontent.com/80482468/146441183-e4ac58ef-838d-41a9-bb9d-417488c3c5cf.png)
+
+![image](https://user-images.githubusercontent.com/80482468/146441188-ed26755c-396f-4897-8b04-651511904206.png)
 
 
 
-2.
-![image](https://user-images.githubusercontent.com/80482468/146433854-60e163f2-9fcb-4a10-9925-e808e09e5133.png)
-![image](https://user-images.githubusercontent.com/80482468/146434009-9d1b4bf7-28da-4401-9f5e-a3bd984fba7f.png)
 
-![image](https://user-images.githubusercontent.com/80482468/146434040-bf992ec2-d25c-4ab3-a214-5261a6807eed.png)
+2.Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL.
 
-3.
+![image](https://user-images.githubusercontent.com/80482468/146446687-dddf2cbd-3138-4a1a-96d1-f1a84eb5063d.png)
+
+![image](https://user-images.githubusercontent.com/80482468/146446754-8207a3b4-f4d5-4fe5-9d2d-1aefca0d28f0.png)
+
+![image](https://user-images.githubusercontent.com/80482468/146446788-42646060-52fe-4d48-ae24-4dba05cbf0eb.png)
+![image](https://user-images.githubusercontent.com/80482468/146446818-eac026a8-bfc9-4366-a26b-a427ba26d081.png)
+
+
+
+3.Модифицируйте код вашего сервиса таким образом, чтобы он поддерживал защищенное соединение.
+
+![image](https://user-images.githubusercontent.com/80482468/146446889-36ae40e0-fbca-4303-ab84-52860bb05106.png)
+![image](https://user-images.githubusercontent.com/80482468/146446937-70864b21-2016-4e9e-8c8d-1297cdae85ad.png)
+![image](https://user-images.githubusercontent.com/80482468/146446964-69bf4feb-a63c-4085-80f3-2bd28248e2b0.png)
+
+
 
 

@@ -1,0 +1,118 @@
+Date: Tue, 14 Dec 2021 23:08:14 GTM
+Addr: ('127.0.0.1', 62135)
+File: C:\Users\ivana\index.html
+Date: Tue, 14 Dec 2021 23:08:14 GTM
+Addr: ('127.0.0.1', 62136)
+File: C:\Users\ivana\404.html
+Error: 404
+Date: Tue, 14 Dec 2021 23:58:53 GTM
+Addr: ('127.0.0.1', 50533)
+File: C:\Users\ivana\image.jpg
+Date: Tue, 14 Dec 2021 23:59:19 GTM
+Addr: ('127.0.0.1', 50548)
+File: C:\Users\ivana\index.html
+Date: Tue, 14 Dec 2021 23:59:49 GTM
+Addr: ('127.0.0.1', 62303)
+File: C:\Users\ivana\image.png
+Date: Wed, 15 Dec 2021 00:00:02 GTM
+Addr: ('127.0.0.1', 62311)
+File: C:\Users\ivana\image.gif
+Date: Wed, 15 Dec 2021 00:01:25 GTM
+Addr: ('127.0.0.1', 58038)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:01:38 GTM
+Addr: ('127.0.0.1', 58991)
+File: C:\Users\ivana\index.html
+Date: Wed, 15 Dec 2021 00:01:49 GTM
+Addr: ('127.0.0.1', 49899)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:02:05 GTM
+Addr: ('127.0.0.1', 49911)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:02:57 GTM
+Addr: ('127.0.0.1', 63446)
+File: C:\Users\ivana\image.png
+Date: Wed, 15 Dec 2021 00:03:01 GTM
+Addr: ('127.0.0.1', 63447)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 01:42:49 GTM
+Addr: ('127.0.0.1', 62361)
+File: C:\Users\ivana\index.html
+Date: Thu, 16 Dec 2021 03:14:11 GTM
+Addr: ('127.0.0.1', 52941)
+File: C:\Users\obadm\Practicum6-webserver\index.html
+Date: Thu, 16 Dec 2021 03:14:11 GTM
+Addr: ('127.0.0.1', 52942)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:15:01 GTM
+Addr: ('127.0.0.1', 52943)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:15:02 GTM
+Addr: ('127.0.0.1', 52981)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:16:18 GTM
+Addr: ('127.0.0.1', 53030)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:16:18 GTM
+Addr: ('127.0.0.1', 53031)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:16:20 GTM
+Addr: ('127.0.0.1', 53032)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:16:20 GTM
+Addr: ('127.0.0.1', 53035)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:17:46 GTM
+Addr: ('127.0.0.1', 62146)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:17:47 GTM
+Addr: ('127.0.0.1', 62148)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:17:58 GTM
+Addr: ('127.0.0.1', 62204)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:17:58 GTM
+Addr: ('127.0.0.1', 62205)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:18:00 GTM
+Addr: ('127.0.0.1', 62206)
+File: C:\Users\obadm\Practicum6-webserver\image.jpg
+Date: Thu, 16 Dec 2021 03:18:00 GTM
+Addr: ('127.0.0.1', 62230)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:21:59 GTM
+Addr: ('127.0.0.1', 59474)
+File: C:\Users\obadm\Practicum6-webserver\image.png
+Date: Thu, 16 Dec 2021 03:21:59 GTM
+Addr: ('127.0.0.1', 59475)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:22:59 GTM
+Addr: ('127.0.0.1', 59476)
+File: C:\Users\obadm\Practicum6-webserver\image.gif
+Date: Thu, 16 Dec 2021 03:22:59 GTM
+Addr: ('127.0.0.1', 59515)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:23:43 GTM
+Addr: ('127.0.0.1', 59545)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:23:43 GTM
+Addr: ('127.0.0.1', 59546)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:23:57 GTM
+Addr: ('127.0.0.1', 59547)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:23:58 GTM
+Addr: ('127.0.0.1', 59559)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:24:21 GTM
+Addr: ('127.0.0.1', 59578)
+File: C:\Users\obadm\Practicum6-webserver\index.html
+Date: Thu, 16 Dec 2021 03:24:21 GTM
+Addr: ('127.0.0.1', 59579)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:24:24 GTM
+Addr: ('127.0.0.1', 59580)
+File: C:\Users\obadm\Practicum6-webserver\404.html
+Date: Thu, 16 Dec 2021 03:24:24 GTM
+Addr: ('127.0.0.1', 59583)
+File: C:\Users\obadm\Practicum6-webserver\404.html

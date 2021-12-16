@@ -33,4 +33,12 @@
 командой cat выводим содержимое:
 ![image](https://user-images.githubusercontent.com/90391164/146354406-0728ee9a-006b-4150-8598-2a4412b88864.png)
 
+перемещение:
+![image](https://user-images.githubusercontent.com/80482468/146355874-6ddd358d-b490-486d-9cbc-5fac2b4ef9e2.png)
+
+
+Удаление файла:
+![image](https://user-images.githubusercontent.com/80482468/146357163-9783cc8d-afc1-4e6d-aa91-8bfef3f325b5.png)
+
+
 

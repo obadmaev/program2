@@ -1,0 +1,16 @@
+Start...
+Connection...
+Port> 9090
+Start listening...
+Folder already exists
+pwd
+rmdir 123
+exit
+None
+Folder already exists
+pwd
+ls
+cd ..
+Admin
+exit
+None
